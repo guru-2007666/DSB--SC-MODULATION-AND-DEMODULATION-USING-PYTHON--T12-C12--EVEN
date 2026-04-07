@@ -33,6 +33,14 @@ Low-pass filter to recover message
 
 Tabulation:
 
+![WhatsApp Image 2026-04-07 at 7 33 48 PM](https://github.com/user-attachments/assets/349fd45c-fd98-4087-8aa0-b8cb8c873d07)
+
+
 Output:
 
+<img width="1918" height="1114" alt="image" src="https://github.com/user-attachments/assets/0c27840c-955c-4f0a-8fc6-936897d3bc71" />
+
+
 Result:
+
+Thus , the DSB-SC AM modulation is generated using python.
